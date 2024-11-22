@@ -3,7 +3,6 @@ import "./App.css";
 import { UserContainer } from "./components/UserContainer";
 
 function App() {
-  const [count, setCount] = useState(0);
 
   return (
     <>
